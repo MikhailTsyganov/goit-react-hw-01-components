@@ -1,0 +1,9 @@
+.listEl {
+    height: 40px;
+    text-align: center;
+}
+
+.listEl:nth-child(2n) {
+    background-color: #ecf1f4;
+}
+
